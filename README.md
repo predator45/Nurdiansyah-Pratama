@@ -1,15 +1,28 @@
 ## Game
 
 ## 1.1 Latar Belakang
-
+player akan memasuki sebuah pulau untuk mencari harta karun yang di mana di pulau itu di huni berbagai hewan buas dan monster-monster di sini player akan melawan hewan buas dan monster untuk bertahan hidup,serta mengambil harta yang di dapatkan dari melawan hewan buas,serta monster- monster dan memasuki tempat demi tempat hingga ke ujung pulau dan player akan pergi pergi ke dermaga dan akan menaiki perahu untuk dari pergi dari pulau tersebut dan kembali ke tempat asalnya lagi.
 
 ## 1.2. Deksripsi Teknologi Informasi
-
+di sini player bisa berlari,lompat,berenang,melawan para monster dengan menggunakan senjata yang dimiliki oleh player(bisa menembak,memukul,melempar,mengebom)serta bisa menggunakan kendaraan yang di lengkapi persenjataan untuk melawan para monster dan hewan buas agar bisa melanjutkan ke stage selanjutnya.player bisa mati jika diserang hewan buas dan monster jika sampai HP nya habis,lalu akan hidup kembali dari tempat chekpoint yg telah di leawati.
 
 ## 1.3. Branding
+Merk:Game 2d RPG
 
+Tagline : bebas tdk perlu pusing karena ketika player mati akan hidup kembali dari tempat chekpoint,bukan dari awal.
 
+Campaign : dengan di publis ke public agar bisa di nilai oleh user dan bisa mendapatkan sponsor dari dari perusahaan atau dari org yg ingin bekerja sama untuk meningkatkan game menjadi lebih bagus dan agar mendapatkan rating dari user yg memainkan game ini.
 
+Target :yaitu bisa mendapatkan rating yg tinggi dan bisa mendapatkan gelar "game yang di rekomendasikan" di Google Play Store.
+
+Target User : target user di sini adalah yang berumur 13 th ke atas karena game ini mengandung effek gore.
+senang melihat story line dari game dengan pengalaman bermain yang mudah dan menyenangkan dari visualisasi dari game yang di mainlkan.
+
+User Experience theme:
+mudah.
+menyenangkan.
+pemandangan vusualisasi yg enak di pandang.
+visualisasi full color pada game
 ## 2. User Story
 
  |  |  | 
@@ -24,7 +37,9 @@
 
 
 ## 5. Teknologi, Library, dan Framework
-
+menggunakan leptop dengan prosesor Ryzen 7 5800HS dengan VGA NVIDIA RTX 3050 
+menggunakan libray java swing 
+menggunakan Software Eclipse,VSCODE dan FIGMA
 
 
 ## 6. Desain User Experience dan User Interface
