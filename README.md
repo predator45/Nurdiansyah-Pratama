@@ -30,6 +30,7 @@ visualisasi full color pada game
  |  |  | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
+![image](https://github.com/predator45/Nurdiansyah-Pratama/assets/145253617/db28e8b4-41f4-4573-834d-173604adeff0)
 
 
 
