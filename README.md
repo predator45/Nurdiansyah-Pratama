@@ -1,10 +1,10 @@
-## Game
+## Game 2D
 
 ## 1.1 Latar Belakang
-player akan memasuki sebuah pulau untuk mencari harta karun yang di mana di pulau itu di huni berbagai hewan buas dan monster-monster di sini player akan melawan hewan buas dan monster untuk bertahan hidup,serta mengambil harta yang di dapatkan dari melawan hewan buas,serta monster- monster dan memasuki tempat demi tempat hingga ke ujung pulau dan player akan pergi pergi ke dermaga dan akan menaiki perahu untuk dari pergi dari pulau tersebut dan kembali ke tempat asalnya lagi.
+player akan memasuki sebuah map untuk mencari harta karun yang di mana di dalam map ini di huni berbagai hewan buas dan monster-monster di sini player akan melawan hewan buas dan monster untuk bertahan hidup,serta mengambil harta yang di dapatkan dari melawan hewan buas,serta monster- monster dan memasuki tempat demi tempat hingga ke ujung map dan player akan pergi pergi ke dermaga dan akan menaiki perahu untuk dari pergi dari tempat tersebut dan kembali ke tempat asalnya lagi.
 
 ## 1.2. Deksripsi Teknologi Informasi
-di sini player bisa berlari,lompat,berenang,melawan para monster dengan menggunakan senjata yang dimiliki oleh player(bisa menembak,memukul,melempar,mengebom)serta bisa menggunakan kendaraan yang di lengkapi persenjataan untuk melawan para monster dan hewan buas agar bisa melanjutkan ke stage selanjutnya.player bisa mati jika diserang hewan buas dan monster jika sampai HP nya habis,lalu akan hidup kembali dari tempat chekpoint yg telah di leawati.
+di sini player bisa berlari,lompat,berenang,melawan para monster dengan menggunakan senjata yang dimiliki oleh player(bisa menembak,memukul,melempar,mengebom) yang ada di sekitar map di sini player bisa melengkapi persenjataan untuk melawan para monster dan hewan buas agar bisa melanjutkan ke stage selanjutnya.player bisa mati jika diserang hewan buas dan monster jika sampai HP(Health Power) nya habis,lalu akan hidup kembali dari tempat chekpoint yg telah di lewati sebelummya.
 
 ## 1.3. Branding
 Merk:Game 2d RPG
@@ -35,12 +35,19 @@ visualisasi full color pada game
 
 
 ## 4. Arsitektur Sistem
+menggunakan leptop/PC dengan prosesor Ryzen 7 5800HS (16 CPUs), ~3.2 GHz   
+menggunakan dual VGA NVIDIA RTX 3050 laptop GPU dan AMD RADEON Graphics 
+menggunakan sistem operasi/OS Windows 11 Home Single Language (64-bit)
+menggunakan RAM 16 GB dan Penyimpanan 512 GB
 
 
-## 5. Teknologi, Library, dan Framework
-menggunakan leptop dengan prosesor Ryzen 7 5800HS dengan VGA NVIDIA RTX 3050 
-menggunakan libray java swing 
-menggunakan Software Eclipse,VSCODE dan FIGMA
+## 5. Teknologi, Library, dan Framework 
+menggunakan Software Eclipse
+menggunakan Software VSCODE dan extensions Figma dari VSCODE
+menggunakan Libray:
+JRE System Library(Java SE-17)
+menggunakan Framework:
+Android Studio
 
 
 ## 6. Desain User Experience dan User Interface
@@ -61,9 +68,7 @@ Link youtube nya di detik jawaban ini
 Link youtube nya di detik jawaban ini
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
-
 Link youtube nya di detik jawaban ini
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
-
 Link youtube nya di detik jawaban ini
