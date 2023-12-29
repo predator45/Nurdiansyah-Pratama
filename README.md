@@ -7,7 +7,7 @@ player akan memasuki sebuah map untuk mencari harta karun yang di mana di dalam 
 di sini player bisa berlari,lompat,berenang,melawan para monster dengan menggunakan senjata yang dimiliki oleh player(bisa menembak,memukul,melempar,mengebom) yang ada di sekitar map di sini player bisa melengkapi persenjataan untuk melawan para monster dan hewan buas agar bisa melanjutkan ke stage selanjutnya.player bisa mati jika diserang hewan buas dan monster jika sampai HP(Health Power) nya habis,lalu akan hidup kembali dari tempat chekpoint yg telah di lewati sebelummya.
 
 ## 1.3. Branding
-Merk:Game 2d RPG
+Merk:Game 2D RPG
 
 Tagline : bebas tdk perlu pusing karena ketika player mati akan hidup kembali dari tempat chekpoint,bukan dari awal.
 
